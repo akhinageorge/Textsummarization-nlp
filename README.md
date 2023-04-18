@@ -21,4 +21,3 @@ One paragraph from the specified row (indexed) is assigned to a variable "para".
 Step 5: Model Evaluation 
 
 The Original content and the no. of words in it is printed out initially. The summary and the no. of words in it is printed next. A comparison can be drawn as such. 
-
